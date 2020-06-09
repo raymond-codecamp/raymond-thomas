@@ -1,0 +1,16 @@
+export const    White   =   '#FFFFFF'; 	
+export const    Silver 	=   '#C0C0C0';	
+export const	Gray 	=   '#808080'; 	
+export const	Black 	=   '#000000'; 	
+export const	Red 	=   '#FF0000'; 	
+export const	Maroon 	=   '#800000'; 	
+export const	Yellow 	=   '#FFFF00'; 	
+export const	Olive 	=   '#808000'; 	
+export const	Lime 	=   '#00FF00'; 	
+export const	Green 	=   '#008000'; 	
+export const	Aqua 	=   '#00FFFF'; 	
+export const	Teal 	=   '#008080';	
+export const	Blue 	=   '#0000FF'; 	
+export const	Navy 	=   '#000080'; 	
+export const	Fuchsia =   '#FF00FF'; 
+export const	Purple 	=   '#800080'; 	
